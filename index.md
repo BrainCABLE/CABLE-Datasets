@@ -8,12 +8,12 @@ VISoR imaging of the coronal radiate localisation of the brain of a marmoset (No
 ### Imageset 2: CJ4_dmri.nii
 dMRI imaging of the brain of the CJ004 marmoset with a resolution of 150 μm.
 
-[CJ4_dmri.nii](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ4_dmri.nii))
+[CJ4_dmri.nii](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ4_dmri.nii)
 
 ### Imageset 3: CJ004.ims
 VISoR imaging of the brain of CJ004 marmoset with a resolution of 4 μm, containing multiple staining, from channel 0 to channel 3 in order of DAPI staining, whole-brain sparse viral labelling, autofluorescence, and Nissl staining.
 
-[CJ004.ims](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ004.ims))
+[CJ004.ims](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ004.ims)
 
 ## Support or Contact
 
