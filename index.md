@@ -3,17 +3,17 @@
 ### Imageset 1: CJ4TEST.h5
 VISoR imaging of the coronal radiate localisation of the brain of a marmoset (No. CJ004) with a resolution of 4 µm for CABLE code testing.
 
-[http://smart.siat.ac.cn](http://smart.siat.ac.cn)
+[CJ4TEST.h5](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ4TEST.h5)
 
 ### Imageset 2: CJ4_dmri.nii
 dMRI imaging of the brain of the CJ004 marmoset with a resolution of 150 μm.
 
-[http://smart.siat.ac.cn](http://smart.siat.ac.cn)
+[CJ4_dmri.nii](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ4_dmri.nii))
 
 ### Imageset 3: CJ004.ims
 VISoR imaging of the brain of CJ004 marmoset with a resolution of 4 μm, containing multiple staining, from channel 0 to channel 3 in order of DAPI staining, whole-brain sparse viral labelling, autofluorescence, and Nissl staining.
 
-[http://smart.siat.ac.cn](http://smart.siat.ac.cn)
+[CJ004.ims](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ004.ims))
 
 ## Support or Contact
 
