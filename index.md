@@ -16,7 +16,8 @@ dMRI imaging of the brain of the CJ004 marmoset with a resolution of 150 μm, st
 VISoR imaging of the brain of CJ004 marmoset with a resolution of 4 μm, containing multiple staining, from channel 0 to channel 3 in order of DAPI staining, whole-brain sparse viral labelling, autofluorescence, and Nissl staining.
 
 [CJ004.ims](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ004.ims)
-![cj4](https://github.com/user-attachments/assets/69f325fe-291e-442f-9ff8-784d262ca875)
+![cj4](https://github.com/user-attachments/assets/3aab8006-5fc1-4687-bafb-934f3104af57)
+
 
 
 
