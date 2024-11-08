@@ -10,11 +10,13 @@ VISoR imaging of the coronal radiate localisation of the brain of a marmoset (No
 dMRI imaging of the brain of the CJ004 marmoset with a resolution of 150 μm, stored in the 8th spherical harmonic (SH) basis.
 
 [CJ4_dmri.nii](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ4_dmri.nii)
-
+![dmri](https://github.com/user-attachments/assets/3626edff-5453-450d-9ec7-69f1de296081)
 ### Imageset 3: CJ004.ims
 VISoR imaging of the brain of CJ004 marmoset with a resolution of 4 μm, containing multiple staining, from channel 0 to channel 3 in order of DAPI staining, whole-brain sparse viral labelling, autofluorescence, and Nissl staining.
 
 [CJ004.ims](http://smart.siat.ac.cn/static-files/cj004_dataset/CJ004.ims)
+![cj4](https://github.comcuser-attachments/assets/5e787a85-54ad-4233-bdd1-809297d79ce0)
+
 
 ## Support or Contact
 
